@@ -1,5 +1,5 @@
 #include <iostream>
-using namespaxe std
+using namespase std
 int main() {
     cout << "Hello, World!" << endl;
     cout <<"ciao";
