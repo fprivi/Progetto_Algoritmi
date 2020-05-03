@@ -1,6 +1,7 @@
 #include <iostream>
-
+using namespaxe std
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    cout << "Hello, World!" << endl;
+    cout <<"ciao";
     return 0;
 }
